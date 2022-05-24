@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jhoe.
-- 👀 I’m interested in ...Data Science.
-- 🌱 I’m currently learning ...OOP programming.
-- 💞️ I’m looking to collaborate on ...Any type of projects.
+- 👀 I’m interested in ...You.
+- 🌱 I’m currently learning ...Myself
+- 💞️ I’m looking to collaborate on ...Your feelings.
 - 📫 How to reach me ...you can email me thru jhoealfemariobagtong@gmail.com
 
 <!---
